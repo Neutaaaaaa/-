@@ -1,1 +1,148 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Любов через слова</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        .container {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #2c3e50;
+            font-size: 1.8em;
+        }
+        p {
+            font-size: 1.1em;
+            color: #555;
+        }
+        .poem {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 1.2em;
+            line-height: 1.8;
+            margin: 20px 0;
+            text-align: center;
+            color: #2c3e50;
+        }
+        .author-note {
+            font-size: 1.1em;
+            font-style: italic;
+            color: #555;
+        }
+        .passport {
+            background-color: #ecf0f1;
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+        .passport p {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #2c3e50;
+            color: #fff;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Любов через слова</h1>
+</header>
+
+<div class="container">
+
+    <!-- Паспорт твору -->
+    <div class="section passport">
+        <h2>Паспорт твору</h2>
+        <p><strong>Назва твору:</strong> Любов через слова</p>
+        <p><strong>Автор:</strong> [Ім’я автора]</p>
+        <p><strong>Жанр:</strong> Лірична поезія</p>
+        <p><strong>Тема:</strong> Кохання, емоційна залежність, біль, прийняття</p>
+        <p><strong>Ідея:</strong> Показати глибину почуттів, які залишаються навіть у відчаї, любов, що не вимагає взаємності, але існує всупереч усьому.</p>
+        <p><strong>Художні засоби:</strong> Метафори, оксиморон, гіпербола, алегорія, емоційна сповідальність</p>
+        <p><strong>Стиль:</strong> Вільний вірш (верлібр), експресивний, насичений внутрішньою драмою</p>
+        <p><strong>Дата написання:</strong> [тут можеш вказати дату або залишити умовну]</p>
+    </div>
+
+    <!-- Вступ -->
+    <div class="section">
+        <h2>Вступ</h2>
+        <p>Любов — це не завжди ніжна тиша і погляди в небо. Іноді вона говорить різко, часом кричить, іноді — мовчить так, що стискається все всередині.  
+        Цей вірш — не про ідеальну картинку, а про те, що часто ховається за нею: про <strong>вразливість</strong>, <strong>болісну чесність</strong>, <strong>страх втрати</strong>, і все одно — <strong>про любов</strong>, яка залишається живою попри все.</p>
+    </div>
+
+    <!-- Текст вірша -->
+    <div class="section">
+        <h2>Текст вірша</h2>
+        <div class="poem">
+            <p>Твої очі, як зорі вночі...<br>  
+            Так яскраво світять,<br>  
+            І серце б’ється частіше<br>  
+            Лиш тільки від однієї думки про тебе.</p>
+
+            <p>Твоя печаль, радість, агресія —<br>  
+            Мені все одно,<br>  
+            Бо я тебе кохаю таку, як ти є.<br>  
+            Хоч ти і схожа на крововпивцю —<br>  
+            Кохаю я тебе!<br>  
+            Зранку, вдень та вночі,<br>  
+            Про тебе все згадую.</p>
+
+            <p>Але я знаю — я для тебе лиш недуг,<br>  
+            Від якого ти зрештою здихаєшся.<br>  
+            А я помру від самотності,<br>  
+            Як плавець, що не вміє плавати.</p>
+        </div>
+    </div>
+
+    <!-- Інтерпретація -->
+    <div class="section">
+        <h2>Інтерпретація</h2>
+        <p>У цьому вірші — боротьба любові з самознеціненням. Ліричний герой кохає без прикрас, без вимог, навіть попри біль.  
+        Рядки «я для тебе лиш недуг» і «як плавець, що не вміє плавати» — відчайдушні, чесні, але водночас дуже людяні.</p>
+    </div>
+
+    <!-- Післямова автора -->
+    <div class="section">
+        <h2>Післямова автора</h2>
+        <p>Цей текст — спроба проговорити те, що зазвичай ховається глибоко. Любов, яка не прикрашає себе, не грає в ідеали. Вона просто є. І поки існують слова — вона звучатиме.</p>
+    </div>
+
+</div>
+
+<footer>
+    <p>Авторські права © 2025</p>
+</footer>
+
+</body>
+</html>
 
